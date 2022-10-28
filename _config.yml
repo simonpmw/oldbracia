@@ -1,0 +1,87 @@
+#-------------------------------
+# General Site Settings
+title: Kaushal Elsewhere
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Coding blog.
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "" # The base hostname & protocol for your site, e.g. http://example.com
+
+#-------------------------------
+# Author Settings
+author:
+  name: Kaushal
+  title: Hello 👋
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  #image: '/images/kaushal.jpg'
+  avatar: '/images/kaushal.jpg'
+
+social:
+- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/KaushElsewhere"}
+#- {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
+#- {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
+- {icon: "ion-logo-instagram", label: Instagram, link: "https://www.instagram.com/kaushal.elsewhere"}
+- {icon: "ion-logo-github", label: Github, link: "https://github.com/KaushalElsewhere"}
+
+# Example of adding a new link to the author section - {icon: "ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Newsletter (_includes/footer-widgets/widget-subscribe.html)
+mailchimp: true # To enable the mailchimp form, use the value 'true'. To disable the form, use the value 'false' or leave the field blank.
+mailchimp__title: Get interesting news # Add your Title
+mailchimp__text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
+mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp__button__text: Join # Add your button text
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: kaushal.exe@gmail.com # Add your email for contact form
+  description: Reach me anytime.
+
+# NOTE
+# Bracia comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: UA-201137118-2 # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:title
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
+
+paginate: 5
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  /:title
+
+sass:
+  sass_dir: _sass
+  style: compressed
