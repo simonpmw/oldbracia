@@ -1,26 +1,25 @@
 #-------------------------------
 # General Site Settings
-title: Kaushal Elsewhere
+title: TechBrv
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Coding blog.
+description: Download Nulled Scripts, Nulled WordPress Templates Plugins, Android Mod Apks and Source Codes, Software, Ebooks, Music and Sound Effects
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
 author:
-  name: Kaushal
+  name: Simon P
   title: Hello 👋
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  #image: '/images/kaushal.jpg'
+  description: Without technology today, you could fail in a split second. That's why I highly recommend you stop what you are doing and explore TechBrv keenly now. Everything so good and FREE, it should be a crime. **Note** \: Links may get banned. You snooze, you lose.  #image: '/images/kaushal.jpg'
   avatar: '/images/kaushal.jpg'
 
 social:
-- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/KaushElsewhere"}
-#- {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
-#- {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", label: Instagram, link: "https://www.instagram.com/kaushal.elsewhere"}
-- {icon: "ion-logo-github", label: Github, link: "https://github.com/KaushalElsewhere"}
+- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/djxpat254"}
+- {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com/djxpat254"}
+#- {icon: "ion-logo-dribbble", label: Dribbble, link: "https://youtube.com"}
+- {icon: "ion-logo-instagram", label: Instagram, link: "https://www.instagram.com/bio.co.ke"}
+- {icon: "ion-logo-whatsapp", label: WhatsApp, link: "https://wa.me/+254798584421"}
 
 # Example of adding a new link to the author section - {icon: "ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -38,7 +37,7 @@ mailchimp__button__text: Join # Add your button text
 #-------------------------------
 # Contact Settings
 contact:
-  email: kaushal.exe@gmail.com # Add your email for contact form
+  email: techrahisi@gmail.com # Add your email for contact form
   description: Reach me anytime.
 
 # NOTE
@@ -64,7 +63,7 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
 
-paginate: 5
+paginate: 10
 paginate_path: "/page/:num"
 
 # Pages Path
