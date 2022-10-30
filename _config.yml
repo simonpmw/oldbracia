@@ -11,7 +11,7 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Simon P
   title: Hello 👋
-  description: Without technology today, you could fail in a split second. That's why I highly recommend you stop what you are doing and explore TechBrv keenly now. Everything so good and FREE, it should be a crime. **Note** \: Links may get banned. You snooze, you lose.  #image: '/images/kaushal.jpg'
+  description: Without technology today, you could fail in a split second. That's why I highly recommend you stop what you are doing and explore TechBrv keenly now. Everything so good and FREE, it should be a crime. Links may get banned. You snooze, you lose.  #image: '/images/kaushal.jpg'
   avatar: '/images/kaushal.jpg'
 
 social:
