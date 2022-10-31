@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Strive not to be a success, but rather to be of value
+title:  Get IT services and cheaper Premium accounts 
 description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull.
-date:   2018-11-10 15:01:35 +0300
+date:   2022-10-27 15:01:35 +0300
 image:  '/images/09.jpg'
 tags:   [technology, workflow, story]
 ---
