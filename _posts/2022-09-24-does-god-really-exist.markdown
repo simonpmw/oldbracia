@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Do what you can, with what you have, where you are
+title:  Does god really exist?
 description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull.
-date:   2018-11-12 15:01:35 +0300
+date:   2022-09-24 15:01:35 +0300
 image:  '/images/07.jpg'
 tags:   [lifestyle, travel, story]
 ---
