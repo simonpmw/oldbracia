@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Get music and Sound Effects
+title:  Music and Sound Effects
 description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull.
-date:   2022-09-24 15:01:35 +0300
+date:   2022-09-23 15:01:35 +0300
 image:  '/images/08.jpg'
 tags:   [travel, hobby, notes]
 ---
