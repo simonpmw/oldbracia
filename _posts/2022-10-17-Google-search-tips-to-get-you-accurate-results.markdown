@@ -2,7 +2,7 @@
 layout: post
 title:  Google Search tips to get you accurate results
 description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull.
-date:   2022-09-24 15:01:35 +0300
+date:   2022-10-17 15:01:35 +0300
 image:  '/images/02.jpg'
 tags:   [workflow, hobby, study]
 ---
