@@ -6,6 +6,41 @@ date:   2022-10-27 15:01:35 +0300
 image:  '/images/09.jpg'
 tags:   [technology, workflow, story]
 ---
+
+how the Bootstrap responsive grid system works.</div>
+    <div class="container">
+        <!--Row with two equal columns-->
+        <div class="row">
+            <div class="col-md-6">
+                <div class="demo-content">.col-md-6</div>
+            </div>
+            <div class="col-md-6">
+                <div class="demo-content bg-alt">.col-md-6</div>
+            </div>
+        </div>
+        
+        <!--Row with two columns divided in 1:2 ratio-->
+        <div class="row">
+            <div class="col-md-4">
+                <div class="demo-content">.col-md-4</div>
+            </div>
+            <div class="col-md-8">
+                <div class="demo-content bg-alt">.col-md-8</div>
+            </div>
+        </div>
+        
+        <!--Row with two columns divided in 1:3 ratio-->
+        <div class="row">
+            <div class="col-md-3">
+                <div class="demo-content">.col-md-3</div>
+            </div>
+            <div class="col-md-9">
+                <div class="demo-content bg-alt">.col-md-9</div>
+            </div>
+        </div>
+    </div>
+
+
 Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empulla enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus ages tandem finxerit.
 
 ![Work]({{site.baseurl}}/images/03.jpg)
