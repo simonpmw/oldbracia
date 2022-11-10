@@ -6,20 +6,20 @@
   --white: #fff;
   --light-gray: #f0f0f0;
   --dark: #0c101a;
-  --dark-blue: #33475B;
-  --light-blue: #949598;
+  --dark-blue: #010334;
+  --light-blue: #eee;
   --lightest-blue: #F6F8FA;
 
-  --background-color: var(--lightest-blue);
-  --background-alt-color: var(--white);
+  --background-color: var(--white);
+  --background-alt-color: var(--lightest-blue);
   
   --text-color: var(--light-blue);
-  --text-alt-color: var(--light-blue);
+  --text-alt-color: var(--dark-blue);
   
   --heading-font-color: var(--dark-blue);
 
-  --link-color: var(--dark-blue);
-  --link-color-hover: var(--brand-color);
+  --link-color: var(--brand-color);
+  --link-color-hover: var(--dark-blue);
 
   --button-color: var(--white);
   --button-color-hover: var(--white);
