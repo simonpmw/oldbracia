@@ -13,7 +13,7 @@
   --background-color: var(--lightest-blue);
   --background-alt-color: var(--white);
   
-  --text-color: var(--dark-blue);
+  --text-color: var(--light-blue);
   --text-alt-color: var(--light-blue);
   
   --heading-font-color: var(--dark-blue);
@@ -21,10 +21,10 @@
   --link-color: var(--dark-blue);
   --link-color-hover: var(--brand-color);
 
-  --button-color: var(--dark-blue);
+  --button-color: var(--white);
   --button-color-hover: var(--white);
-  --button-background-color: var(--brand-color-g);
-  --button-background-hover: var(--brand-color);
+  --button-background-color: var(--brand-color);
+  --button-background-hover: var(--brand-color-g);
 
   --border-color: var(--light-gray);
   --border-color-alt: #212630;
@@ -67,7 +67,7 @@
 
   --tr-color: var(--dark);
 
-   --box-shadow-rgba: 0px 2px 20px rgba(0, 0, 0, 0.08);
+  --box-shadow-rgba: 0px 2px 20px rgba(0, 0, 0, 0.08);
 
   --syntax-highlighting-background: var(--dark);
 }
