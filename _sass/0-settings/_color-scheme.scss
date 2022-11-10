@@ -7,14 +7,14 @@
   --light-gray: #f0f0f0;
   --dark: #0c101a;
   --dark-blue: #010334;
-  --light-blue: #eee;
-  --lightest-blue: #F6F8FA;
+  --light-blue: #33475B;
+  --lightest-blue: #F5F8FA;
 
-  --background-color: var(--white);
-  --background-alt-color: var(--lightest-blue);
+  --background-color: var(--lightest-blue);
+  --background-alt-color: var(--white);
   
-  --text-color: var(--light-blue);
-  --text-alt-color: var(--dark-blue);
+  --text-color: var(--dark-blue);
+  --text-alt-color: var(--light-blue);
   
   --heading-font-color: var(--dark-blue);
 
@@ -23,8 +23,8 @@
 
   --button-color: var(--white);
   --button-color-hover: var(--white);
-  --button-background-color: var(--brand-color);
-  --button-background-hover: var(--brand-color-g);
+  --button-background-color: var(--brand-color-g);
+  --button-background-hover: var(--brand-color);
 
   --border-color: var(--light-gray);
   --border-color-alt: #212630;
