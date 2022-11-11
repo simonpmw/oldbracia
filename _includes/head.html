@@ -41,7 +41,7 @@
   <script>
 Array.from(javascript.links)
     .filter(link => link.hostname != window.location.hostname)
-    .forEach(link => link.
+    .forEach(link => link.target = '_blank');
   </script>
   <style>
   {% capture include_to_scssify %}
