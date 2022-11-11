@@ -14,6 +14,8 @@ tags:   [technology, workflow, story]
 [![Premium Nulled WordPress Themes]({{site.baseurl}}/images/07-2.jpg "Nulled WordPress themes free download")](https://linktofileintopic.com)
 
 ### Fastest WordPress Themes
+ <a href="placeholder.com" target="_blank">Opens in new tab</a>
+
 1. [**Socially Viral**](https://demo.mythemeshop.com/s/?theme=SociallyViral "Socially Viral Theme Demo") - a beautifully designed WordPress theme that is built to be engaging, fast, and most importantly, boost viral traffic.  
 [Demo](https://demo.mythemeshop.com/s/?theme=SociallyViral "Socially Viral Theme Demo")
 [Download](https://exe.io "Socially Premium Nulled Theme Download")
