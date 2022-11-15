@@ -1,7 +1,7 @@
 [![pages-build-deployment](https://github.com/KaushalElsewhere/KaushalElsewhere.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=release)](https://github.com/KaushalElsewhere/KaushalElsewhere.github.io/actions/workflows/pages/pages-build-deployment)
 
 * * *
-### Visit https://techbrv.github.io
+### Visit https://techbrv.netlify.app
 
 - Compatible with Jekyll 4.2
 - Dark and light mode user can select themself
