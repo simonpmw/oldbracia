@@ -2,8 +2,7 @@
 name: import
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  workflow-dispatch:
 
 jobs:
   publish:
