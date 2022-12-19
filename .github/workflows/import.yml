@@ -1,9 +1,7 @@
 # .github/workflows/import.yml
 name: import
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
+  on: [pull_request]
 
 jobs:
   publish:
