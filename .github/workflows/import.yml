@@ -10,17 +10,21 @@ jobs:
     # ...
 
     steps:
-    - uses: 'actions/checkout@v3'
-
-    - id: 'auth'
-      name: 'Authenticate to Google Cloud'
-      uses: 'google-github-actions/auth@v1'
-      with:
-        credentials_json: '${{ secrets.GOOGLE_CREDENTIALS }}'
-
   publish:
     runs-on: ubuntu-latest
     steps:
+
+    - uses: 'actions/checkout@v3'
+
+    - id: 'auth'
+
+      name: 'Authenticate to Google Cloud'
+
+      uses: 'google-github-actions/auth@v1'
+
+      with:
+
+        credentials_json: '${{ secrets.GOOGLE_CREDENTIALS }}'
       - uses: google-github-actions/auth@v0
         with:
           service_account: techbrv@my-project-1551724875322.iam.gserviceaccount.com
