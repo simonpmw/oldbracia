@@ -1,3 +1,6 @@
+on:
+workflow-dispatch 
+
 jobs:
   job_id:
     # ...
