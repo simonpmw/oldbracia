@@ -13,4 +13,4 @@ jobs:
           service_account: ${{ secrets.GOOGLE_SERVICE_ACCOUNTS }}
       - uses: r7kamura/google-docs-to-github@v3
         with:
-          google_drive_folder_id: 1zD5A9LcT1aHz5_R_eXvikWy1l7SGcjH_
+          google_drive_folder_id: 1byvgNpnn6gA9OSOduKSkX_GXb4LT1F9b
