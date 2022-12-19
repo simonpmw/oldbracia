@@ -1,7 +1,7 @@
 # .github/workflows/import.yml
 name: import
 
-  on: [pull_request]
+  on: push
 
 jobs:
   publish:
