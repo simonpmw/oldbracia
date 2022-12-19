@@ -1,8 +1,9 @@
 # .github/workflows/import.yml
 name: import
 
-on: 
-workflow_dispatch:
+on:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   publish:
