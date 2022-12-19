@@ -6,9 +6,7 @@ jobs:
     # ...
     
 on:
-  workflow_dispatch:
-      inputs:
-          github_directory: _posts
+  workflow_dispatch
   
     runs-on: ubuntu-latest
 
