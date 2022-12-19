@@ -4,12 +4,6 @@ name: import
 on:
   workflow_dispatch
 
-jobs:
-  runs-on: ubuntu-latest
-  auth:
-    # ...
-
-    steps:
   publish:
     runs-on: ubuntu-latest
     steps:
@@ -25,6 +19,7 @@ jobs:
       with:
 
         credentials_json: '${{ secrets.GOOGLE_CREDENTIALS }}'
+
       - uses: google-github-actions/auth@v0
         with:
           service_account: techbrv@my-project-1551724875322.iam.gserviceaccount.com
