@@ -3,8 +3,8 @@
 title: TechBrv
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Download Nulled Scripts, Nulled WordPress Templates Plugins, Android Mod Apks and Source Codes, Software, Ebooks, Music and Sound Effects
-baseurl: "/oldbracia" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "https://techbrv.github.io/oldbracia/" # The base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
