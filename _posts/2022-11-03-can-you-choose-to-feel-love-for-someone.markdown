@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  WordPress Themes, Plugins, PHP Scripts, Mobile App Source Codes and Forum Software
+title:  Can you choose to feel love for someone?
 description: The future of coding is no coding at all. Use these CLEAN and regularly updated templates to develop applications faster, saving time and focusing more energy on other productive work, marketing etc .
 date:   2022-11-03 15:01:35 +0300
 image:  '/images/09.jpg'
