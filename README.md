@@ -1,7 +1,7 @@
-[![pages-build-deployment](https://github.com/KaushalElsewhere/KaushalElsewhere.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=release)](https://github.com/KaushalElsewhere/KaushalElsewhere.github.io/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://oldbracia.vercel.app/actions/workflows/pages/pages-build-deployment/badge.svg?branch=release)](https://oldbracia.vercel.app/actions/workflows/pages/pages-build-deployment)
 
 * * *
-### Visit https://techbrv.netlify.app
+### A Working Jekyll Blog Template
 
 - Compatible with Jekyll 4.2
 - Dark and light mode user can select themself
@@ -45,8 +45,6 @@ I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/de
 
 * * *
 
-### Documentation
-
-Before using the Bracia theme, please read the attached documentation.
+Enjoy
 
 * * *
