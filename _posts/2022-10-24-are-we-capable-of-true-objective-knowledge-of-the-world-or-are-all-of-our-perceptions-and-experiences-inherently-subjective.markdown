@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  Download WordPress themes, plugins, PHP scripts and Android source codes 
+layout: post 
+title:  Are we capable of true, objective knowledge of the world, or are all of our perceptions and experiences inherently subjective
 description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull.
 date:   2022-10-24 18:05:55 +0300
 image:  '/images/05.jpg'
