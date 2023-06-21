@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  Unlimited Cloud Storages and Transfers 2023
+layout: post 
+title:  The Debate Over the Problem of Evil in Relation to God's Existence
 description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull.
 date:   2022-10-18 15:01:35 +0300
 image:  '/images/04.jpg'
