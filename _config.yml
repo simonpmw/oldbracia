@@ -51,13 +51,13 @@ disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For
 
 #-------------------------------
 # Google Analytics
-google-analytics: UA-201137118-2 # Add your identifier. For example UA-99631805-1.
+google-analytics: # UA-201137118-2 # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
 # Build Settings
 markdown: kramdown
-permalink: /:title
+permalink: /:title:output_ext
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
