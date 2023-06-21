@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  Movies, Music and Sound Effects
+layout: post 
+title:  Can we ever truly escape the influence of our culture and upbringing
 description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull.
 date:   2022-10-21 15:01:35 +0300
 image:  '/images/08.jpg'
