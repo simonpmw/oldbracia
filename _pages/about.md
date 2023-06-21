@@ -6,7 +6,7 @@ image: '/images/about-2.jpg'
 ---
 ***
 
-Hi my name is **Kaushal Elsewhere**, I am a software engineer based in Sydney, Australia. I started this blog as to collect and put my thoughts into one place. I will try to write anything which comes to my mind, this blog is not specified to any single category.
+Hi my name is **Simon PMW**, I am a software engineer based in Sydney, Australia. I started this blog as to collect and put my thoughts into one place. I will try to write anything which comes to my mind, this blog is not specified to any single category.
 
 ***
 
