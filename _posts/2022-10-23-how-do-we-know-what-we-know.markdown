@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  Graphics and Video Templates - for Ai, Photoshop, Lightroom and more
+layout: post 
+title:  How do we know what we know
 description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull.
 date:   2022-10-23 15:01:35 +0300
 image:  '/images/11.jpg'
