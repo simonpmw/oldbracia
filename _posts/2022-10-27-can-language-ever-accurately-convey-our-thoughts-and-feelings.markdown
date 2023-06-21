@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  Get IT services and cheaper Premium accounts 
+layout: post 
+title:  Can language ever accurately convey our thoughts and feelings?
 description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull.
 date:   2022-10-27 15:01:35 +0300
 image:  '/images/09.jpg'
