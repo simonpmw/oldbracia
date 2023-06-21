@@ -1,5 +1,4 @@
-[![pages-build-deployment](https://github.com/TechGeniusDev/oldbracia/actions/workflows/pages/pages-build-deployment/badge.svg?branch=release)](https://github.com/TechGeniusDev/oldbracia/actions/workflows/pages/pages-build-deployment)
-
+[![pages-build-deployment](https://github.com/TechGeniusDev/oldbracia/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/TechGeniusDev/oldbracia/actions/workflows/pages/pages-build-deployment)
 
 * * *
 ### A Working Jekyll Blog Template
