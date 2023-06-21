@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  Google Search tips to get you accurate results
+layout: post 
+title:  The Evidence for God's Existence in Historical Texts and Scriptures
 description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull.
 date:   2022-10-17 15:01:35 +0300
 image:  '/images/02.jpg'
